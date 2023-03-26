@@ -1,4 +1,9 @@
 # MemClickerByRinat50205
-TestGameOnPygame
-## Это мой первый проект на пайгейм 
-    посмотрите и оцените
+      TestGameOnPygame
+      It's my first project on pygame
+
+## Installation
+      1.Download all files
+      2.Open the exe file
+      3.Enjoy the game
+
